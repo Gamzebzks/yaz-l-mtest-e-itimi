@@ -1,1 +1,1 @@
-# yaz-l-mtest-e-itimi
+# yazilim test egitimi
